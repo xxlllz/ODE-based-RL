@@ -3,7 +3,7 @@
 The code has not been fully refactored. But the baseline and codebase could be found in [Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs].
 Modifying the recurrent model with GRU-ODE proposed in our work could generally work.
 
-##New
+## New
 Maybe there are some bugs or issues that have not been solved, I will continue to work on these issues.
 
 ### "Standard" POMDP
