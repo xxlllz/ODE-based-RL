@@ -1,11 +1,11 @@
 ## [ODE-based Recurrent Model-free Reinforcement Learning for POMDPs](https://arxiv.org/abs/2309.14078) (Neurips 2023)
 
 
-The code is highly built on [Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs](https://github.com/twni2016/pomdp-baselines)
-The code has not been fully refactored.
+The code is built on [Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs](https://github.com/twni2016/pomdp-baselines).
+
 
 ### News
-Maybe there are some bugs or issues that have not been solved, I will continue to work on these issues.
+Maybe there are some bugs or issues that have not been solved, I will continue to work on these problems.
 
 ### "Standard" POMDP
 
