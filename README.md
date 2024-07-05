@@ -1,7 +1,9 @@
-# 《ODE-based Recurrent Model-free Reinforcement Learning for POMDPs》
-[Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs]: https://github.com/twni2016/pomdp-baselines
-The code has not been fully refactored. But the baseline and codebase could be found in [Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs].
-Modifying the recurrent model with GRU-ODE proposed in our work could generally work.
+# ODE-based Recurrent Model-free Reinforcement Learning for POMDPs
+# 3D Face Reconstruction with the Geometric Guidance of Facial Part Segmentation
+
+
+The code is highly built on [Recurrent Model-Free RL Can Be a Strong Baseline for Many POMDPs](https://github.com/twni2016/pomdp-baselines)
+The code has not been fully refactored.
 
 ## New
 Maybe there are some bugs or issues that have not been solved, I will continue to work on these issues.
