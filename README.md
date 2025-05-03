@@ -1,4 +1,4 @@
-# ODE-based-RL
+# ODE-based Recurrent Model-free Reinforcement Learning for POMDPs
 [ODE-based Recurrent Model-free Reinforcement Learning for POMDPs](https://arxiv.org/abs/2309.14078) (Neurips 2023)
 
 
